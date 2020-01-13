@@ -1,0 +1,22 @@
+{
+  "name": "purescript-my-test-123",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-my-test-123.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.1",
+    "purescript-console": "^4.3.0",
+    "purescript-effect": "^2.0.1"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
